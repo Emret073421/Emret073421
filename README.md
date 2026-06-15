@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba, Ben Emre! 👋</h1>
 
-<h3 align="center">Bilgisayar Programcılığı Mezunu | Geleceğin Bilgisayar Mühendisi | Web & Oyun Geliştirici</h3>
+<h3 align="center">Bilgisayar Programcılığı Mezunu | Web & Oyun Geliştirici</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Emret073421&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Profil Görüntülenme" />
@@ -10,12 +10,11 @@
 
 ## 👨‍💻 Hakkımda
 
-Bilgisayar Programcılığı bölümünden **3.70 gibi yüksek bir not ortalamasıyla** mezun oldum. Öğrenmeye olan tutkum ve hedeflerim doğrultusunda şu anda DGS ile **Bilgisayar Mühendisliği** bölümüne geçiş sürecindeyim. Kod yazmayı, yeni mekanikler tasarlamayı ve veritabanı mimarileri kurmayı seviyorum. Hem web teknolojilerinde hem de oyun geliştirmede kendimi sürekli geliştiriyorum.
+Bilgisayar Programcılığı mezunuyum. Kod yazmayı, oyun mekanikleri tasarlamayı ve veritabanı mimarileri kurmayı seviyorum. Hem web teknolojilerinde hem de oyun geliştirmede kendimi sürekli geliştiriyorum.
 
-- 🎓 **Eğitim:** Bilgisayar Programcılığı (3.70 GPA) -> Bilgisayar Mühendisliği (Hedef)
 - 💡 **İlgi Alanlarım:** Full-Stack Web Geliştirme, 2D Oyun Geliştirme, Veritabanı Yönetimi
 - 💬 **Bana Sorabilirsiniz:** PHP, MySQL, Unity ve C# hakkında.
-- 📫 **Bana Ulaşın:** [LinkedIn Profiliniz](https://linkedin.com/in/KULLANICI-ADINIZ) | emre.ornek@email.com *(Buraları kendi bilgilerinizle güncelleyin)*
+- 📫 **Bana Ulaşın:** [LinkedIn Profilim](https://www.linkedin.com/in/emre-tuncer-b9a53234a)
 
 ---
 
