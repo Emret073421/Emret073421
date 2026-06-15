@@ -46,8 +46,7 @@ Aşağıda severek geliştirdiğim bazı önemli projelerimi bulabilirsiniz:
 ### 🏢 Web & Yazılım Projeleri
 * **[KralYolu E-Ticaret](https://github.com/Emret073421/KralYolu_E-Ticaret):** HTML tabanlı e-ticaret arayüzü tasarımı.
 * **[Duyuru Paneli (Multi-Platform)](https://github.com/Emret073421/Duyuru-Paneli-Multi-Platform-Announcer-):** Kotlin ile geliştirilen çoklu platform duyuru paneli.
-* **[Hediyelik Eşya Satış Otomasyonu](https://github.com/Emret073421/Object-oriented-gift-shop-sales-automation):** PHP kullanılarak nesne yönelimli (OOP) mimaride tasarlanmış satış otomasyonu.
-* **[Market Otomasyonu](https://github.com/Emret073421/Object-oriented-market-automation-project-in-C-console):** C# ile konsol üzerinde çalışan nesne yönelimli market yönetim otomasyonu.
+* **[Sinema Otomasyonu](https://github.com/Emret073421/C-_Proje):** C# ile nesne tabanlı (OOP) mimaride geliştirilmiş kapsamlı sinema bilet ve salon yönetim otomasyonu.
 * **[AudioCrypt Project](https://github.com/Emret073421/AudioCrypt-Project):** PHP tabanlı veri/ses şifreleme ve güvenlik projesi.
 
 ### 🎮 Oyun Projeleri
