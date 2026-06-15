@@ -58,8 +58,9 @@ Aşağıda severek geliştirdiğim bazı önemli projelerimi bulabilirsiniz:
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emret073421&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Emre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emret073421&show_icons=true&theme=dark&hide_border=true" alt="Emre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emret073421&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emret073421&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emret073421&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
