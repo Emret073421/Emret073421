@@ -43,13 +43,16 @@ Bilgisayar Programcılığı mezunuyum. Kod yazmayı, oyun mekanikleri tasarlama
 
 Aşağıda severek geliştirdiğim bazı önemli projelerimi bulabilirsiniz:
 
-### 🏢 Web Projeleri
-* **[Emlak Platformu](https://github.com/Emret073421/Emlak-Platformu-Repo-Linki):** Çoklu dil destekli mimariye sahip, dinamik ve kullanıcı dostu emlak yönetim platformu.
-* **[Eczane Otomasyonu](https://github.com/Emret073421/Eczane-Otomasyonu-Repo-Linki):** Karmaşık veritabanı süreçlerinin yönetildiği, stok ve satış takibi yapılabilen kapsamlı otomasyon sistemi.
+### 🏢 Web & Yazılım Projeleri
+* **[KralYolu E-Ticaret](https://github.com/Emret073421/KralYolu_E-Ticaret):** HTML tabanlı e-ticaret arayüzü tasarımı.
+* **[Duyuru Paneli (Multi-Platform)](https://github.com/Emret073421/Duyuru-Paneli-Multi-Platform-Announcer-):** Kotlin ile geliştirilen çoklu platform duyuru paneli.
+* **[Hediyelik Eşya Satış Otomasyonu](https://github.com/Emret073421/Object-oriented-gift-shop-sales-automation):** PHP kullanılarak nesne yönelimli (OOP) mimaride tasarlanmış satış otomasyonu.
+* **[Market Otomasyonu](https://github.com/Emret073421/Object-oriented-market-automation-project-in-C-console):** C# ile konsol üzerinde çalışan nesne yönelimli market yönetim otomasyonu.
+* **[AudioCrypt Project](https://github.com/Emret073421/AudioCrypt-Project):** PHP tabanlı veri/ses şifreleme ve güvenlik projesi.
 
 ### 🎮 Oyun Projeleri
-* **[Safari Run Run](https://github.com/Emret073421/Safari-Run-Run-Repo-Linki):** Unity ile sıfırdan geliştirilen, mekanikleri ve pixel art tasarımı tamamen bana ait olan heyecan verici 2D hayatta kalma oyunu.
-* **[Hangry Farm](https://github.com/Emret073421/Hangry-Farm-Repo-Linki):** Unity ortamında hayat bulan, kaynak yönetimi ve hayatta kalma ögelerini barındıran bir başka eğlenceli 2D oyun projem.
+* **[Kim Milyoner Olmak İster](https://github.com/Emret073421/KimMilyonerOlmakIster):** C# ile geliştirilmiş klasikleşen bilgi yarışması oyunu klonu.
+* **[Oyun Projem](https://github.com/Emret073421/Oyun_Projem):** Kişisel oyun geliştirme projem ve çalışmalarım.
 
 ---
 
