@@ -59,6 +59,8 @@ Aşağıda severek geliştirdiğim bazı önemli projelerimi bulabilirsiniz:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emret073421&show_icons=true&theme=dark&hide_border=true" alt="Emre's GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emret073421&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
