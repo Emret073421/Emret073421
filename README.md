@@ -12,8 +12,8 @@
 
 Bilgisayar Programcılığı bölümünü birincilikle tamamladım. Kurumsal seviyede veritabanı mimarileri kurmayı, REST API entegrasyonları yapmayı ve temiz kod prensipleriyle (OOP) yazılım geliştirmeyi seviyorum. Hedefim, full-stack ve mobil geliştirme yeteneklerimi ileride yöneleceğim Yapay Zeka mühendisliği vizyonumla birleştirip ölçeklenebilir büyük projelere imza atmak.
 
-- 💡 **Odak Alanlarım:** Full-Stack Web Geliştirme, Mobil Uygulama Geliştirme, Veritabanı Mimarisi, Sistem Entegrasyonları
-- 💬 **Bana Sorabilirsiniz:** Backend mimarileri, SQL, API Entegrasyonları ve Nesne Yönelimli Programlama (OOP) hakkında.
+- 💡 **Odak Alanlarım:** Full-Stack Web Geliştirme, Mobil Uygulama Geliştirme (Android), Veritabanı Mimarisi, Sistem Entegrasyonları
+- 💬 **Bana Sorabilirsiniz:** Backend mimarileri, SQL, API Entegrasyonları, Java/Kotlin ve Nesne Yönelimli Programlama (OOP) hakkında.
 - 📫 **Bana Ulaşın:** [LinkedIn Profilim](https://www.linkedin.com/in/emre-tuncer-b9a53234a)
 
 ---
@@ -22,19 +22,25 @@ Bilgisayar Programcılığı bölümünü birincilikle tamamladım. Kurumsal sev
 
 ### Backend & Veritabanı Mimarisi
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
 </p>
 
-### Frontend & Mobil
+### Mobil Geliştirme (Android)
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
+
+### Frontend & Web
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/AJAX-0052CC?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
 ### Yazılım Geliştirme & Araçlar
@@ -53,7 +59,7 @@ Aşağıda mimari tasarımına, API entegrasyonlarına ve veri güvenliğine oda
 * **[KralYolu E-Ticaret](https://github.com/Emret073421/KralYolu_E-Ticaret):** E-ticaret veritabanı mimarisi ve kullanıcı dostu arayüz tasarımı.
 * **[Duyuru Paneli (Multi-Platform)](https://github.com/Emret073421/Duyuru-Paneli-Multi-Platform-Announcer-):** API entegrasyonları kullanılarak Kotlin ile geliştirilen çapraz platform bildirim sistemi.
 * **[Sinema Otomasyonu](https://github.com/Emret073421/C-_Proje):** C# ile Nesne Tabanlı Programlama (OOP) mimarisinde geliştirilmiş kapsamlı veri ve salon yönetim otomasyonu.
-* **[AudioCrypt Project](https://github.com/Emret073421/AudioCrypt-Project):** PHP tabanlı veri/ses şifreleme ve siber güvenlik odaklı web projesi.
+* **[AudioCrypt Project](https://github.com/Emret073421/AudioCrypt-Project):** Python tabanlı veri/ses şifreleme ve siber güvenlik odaklı web projesi.
 
 ### 💻 Algoritma & OOP Çalışmaları
 * **[Durum Yönetimi Simülasyonu](https://github.com/Emret073421/KimMilyonerOlmakIster):** C# ile algoritma mantığını ve durum yönetimini (state management) pekiştirdiğim masaüstü uygulaması.
